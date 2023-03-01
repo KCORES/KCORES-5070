@@ -1,0 +1,2 @@
+# KCORES-5070
+Hacking DELL Wyse 5070
