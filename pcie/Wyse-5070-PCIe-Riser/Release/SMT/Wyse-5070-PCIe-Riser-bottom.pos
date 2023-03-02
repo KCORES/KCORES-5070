@@ -1,0 +1,7 @@
+### Module positions - created on Fri Feb 11 00:19:10 2022 ###
+### Printed by Pcbnew version (6.0.1)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                    PosX       PosY       Rot  Side
+J2        Bus_PCI_Express_x8  PCIe_Vertical_SMT_x8  -141.5000  -133.0000  180.0000  bottom
+## End

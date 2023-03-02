@@ -1,0 +1,7 @@
+"ID";"指示符";"软件包";"数量";"名称";"供应商和参考";
+1;"JP4";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"~{WAKE}";;;
+2;"JP2";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"SMCLK";;;
+3;"C6,C4,C1,C7,C3,C5,C8,C2";"C_0402_1005Metric";8;"100nF";;;
+4;"J1";"BUS_PCIexpress_x4";1;"Wyse_PCI_Express_x4";;;
+5;"JP3";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"SMDAT";;;
+6;"J2";"PCIe_Vertical_SMT_x8";1;"Bus_PCI_Express_x8";;;

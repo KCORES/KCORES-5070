@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Wyse-5070-PCIe-Riser")(type "KiCad")(uri "${KIPRJMOD}/Wyse-5070-PCIe-Riser.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_PCI_Express")(type "KiCad")(uri "${KIPRJMOD}/KCORES-Lib/Symbol/Connector_PCI_Express.kicad_sym")(options "")(descr ""))
+)

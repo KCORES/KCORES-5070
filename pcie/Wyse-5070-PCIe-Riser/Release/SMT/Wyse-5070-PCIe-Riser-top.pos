@@ -1,0 +1,14 @@
+### Module positions - created on Fri Feb 11 00:19:10 2022 ###
+### Printed by Pcbnew version (6.0.1)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+C1        100nF     C_0402_1005Metric   144.8500  -133.0000  -90.0000  top
+C2        100nF     C_0402_1005Metric   145.8500  -133.0000  -90.0000  top
+C3        100nF     C_0402_1005Metric   149.8500  -133.0000  -90.0000  top
+C4        100nF     C_0402_1005Metric   150.8500  -133.0000  -90.0000  top
+C5        100nF     C_0402_1005Metric   153.8500  -133.0000  -90.0000  top
+C6        100nF     C_0402_1005Metric   154.8500  -133.0000  -90.0000  top
+C7        100nF     C_0402_1005Metric   157.8500  -133.0000  -90.0000  top
+C8        100nF     C_0402_1005Metric   158.8500  -133.0000  -90.0000  top
+## End

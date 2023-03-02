@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCI_Express_x1
+D PCIe is a high-speed serial computer expansion bus standard
+K PCI PCIe Express x1
+$ENDCMP
+#
+$CMP PCI_Express_x4
+D PCIe is a high-speed serial computer expansion bus standard
+K PCI PCIe Express x4
+$ENDCMP
+#
+$CMP PCI_Express_x8
+D PCIe is a high-speed serial computer expansion bus standard
+K PCI PCIe Express x8
+$ENDCMP
+#
+#End Doc Library
