@@ -101,7 +101,7 @@ BIOS 文件由 [@Naivekun](https://github.com/naivekun) 修改, 主要功能:
 - 上板与主板固定使用 M3x14mm 铜柱
 - 下板与主板固定使用 M3x6mm 铜柱
 
-该尺寸为自制 PCIe 转接板设计, 兼容原厂 PCIe 扩展板
+该尺寸为自制 PCIe 转接板设计, 不兼容原厂 PCIe 扩展板
 
 ## 开机注意事项
 
