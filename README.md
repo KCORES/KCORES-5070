@@ -2,7 +2,7 @@
 
 关于 DELL Wyse 5070 主板的一些硬件分析和逆向工程
 
-- 介绍视频：[省到离谱，比树莓派还省电的x86主板](https://www.bilibili.com/video/BV1JY4y117vH/)
+- 介绍视频：[省到离谱，比树莓派还省电的x86主板](https://youtu.be/9opQ4gsh4Hg)
 
 - 交流QQ群：[655944532](https://jq.qq.com/?_wv=1027&k=KV0wy6gJ)
 
